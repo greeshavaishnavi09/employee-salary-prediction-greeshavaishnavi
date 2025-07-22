@@ -18,5 +18,5 @@ This project forecasts whether an employee makes above $50K per year based on th
 
 1. Clone the repository
 bash
-git clone https://github.com/your-username/employee-salary-prediction-ml.git
+git clone https://github.com/greeshavaishnavi09/employee-salary-prediction-greeshavaishnavi.git
 cd employee-salary-prediction-ml
